@@ -1,0 +1,132 @@
+body {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+}
+
+h1 {
+  color: gold;
+  font-family: Merienda;
+  margin: 0;
+}
+
+h2 {
+  color: red;
+  margin: 0;
+}
+
+h3 {
+  color: #25847b;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  text-decoration: none;
+  margin: auto 10px;
+}
+
+a:hover {
+  color: white;
+}
+
+.BUTTON_YKL {
+  background: #3D94F6;
+  background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFAE00;
+  font-family: Brush Script MT, serif;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 20px;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 30px auto;
+}
+
+.BUTTON_YKL:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+  /* -webkit-border-radius: 20px;
+  -moz-border-radius: 20px; */
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #aaffe6c4;
+  padding-top: 70px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
+
+.blue {
+  margin: 100px;
+  background-color: blue;
+}
+
+.red {
+  margin: 100px;
+  background-color: red;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 380px;
+  top: 15px;
+}
+
+.cloud2 {
+  position: absolute;
+  right: 670px;
+  top: 99px;
+}
+
+.mellow {
+  width: 400px;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.swimming {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
